@@ -6,13 +6,13 @@ Analyze cyber security data to detect threats identify attack patterns and impro
 security.
 
 SQL Tasks
-Retrieve threats per system
-Find top 5 attack types
-Calculate monthly threat trends
-Identify frequent attackers
-Find average attack frequency
-Determine peak attack time
-Rank systems by risk
+- Retrieve threats per system
+- Find top 5 attack types
+- Calculate monthly threat trends
+- Identify frequent attackers
+- Find average attack frequency
+- Determine peak attack time
+- Rank systems by risk
 
 
 Pandas Tasks
