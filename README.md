@@ -1,8 +1,8 @@
 <details>
-<summary>Project Title: Cyber Security Threat Analysis</summary>
+Project Title: Cyber Security Threat Analysis
 
 Project Overview
-Analyze cyber security data to detect threats identify attack patterns and improve system
+- Analyze cyber security data to detect threats identify attack patterns and improve system
 security.
 
 SQL Tasks
@@ -16,24 +16,24 @@ SQL Tasks
 
 
 Pandas Tasks
-Load dataset
-Handle missing values
-Analyze threats per system
-Calculate moving average of attacks
-Segment threats by severity
-Analyze attack patterns
-Identify high risk systems
+- Load dataset
+- Handle missing values
+- Analyze threats per system
+- Calculate moving average of attacks
+- Segment threats by severity
+- Analyze attack patterns
+- Identify high risk systems
 
 
 Power BI Tasks
-Threat trend dashboard
-Attack type chart
-System risk analysis
-Heatmap of attacks by time
-Pie chart of threat categories
-KPI cards for threats risk level
+- Threat trend dashboard
+- Attack type chart
+- System risk analysis
+- Heatmap of attacks by time
+- Pie chart of threat categories
+- KPI cards for threats risk level
 
 Dataset
-Kaggle Cyber Security dataset
+- Kaggle Cyber Security dataset
 
 </details>
