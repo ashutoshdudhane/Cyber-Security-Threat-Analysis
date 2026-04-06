@@ -1,4 +1,3 @@
-<details>
 Project Title: Cyber Security Threat Analysis
 
 Project Overview
@@ -36,4 +35,3 @@ Power BI Tasks
 Dataset
 - Kaggle Cyber Security dataset
 
-</details>
