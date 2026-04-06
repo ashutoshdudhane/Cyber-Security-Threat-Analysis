@@ -1,4 +1,5 @@
-Project Title: Cyber Security Threat Analysis
+<details>
+<summary>Project Title: Cyber Security Threat Analysis</summary>
 
 Project Overview
 Analyze cyber security data to detect threats identify attack patterns and improve system
@@ -34,3 +35,5 @@ KPI cards for threats risk level
 
 Dataset
 Kaggle Cyber Security dataset
+
+</details>
